@@ -6,7 +6,7 @@ Repository Structure & Chapters
 This repository is organized into chapters, each with hands-on examples, manifests, scripts, and images. Below is an overview of each chapter and the related directories or features you will find:
 
 How to Use This Repo
-Start from Chapter 1 and follow the README in each folder.
+Follow the README in each folder.
 Use the provided manifests and scripts for hands-on practice.
 Each chapter builds on the previous one, covering beginner to advanced topics.
 Highlights
